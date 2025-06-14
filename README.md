@@ -22,7 +22,5 @@ Sou apaixonado por tecnologia e estou sempre buscando aprender e evoluir. Compar
 
 ## 📊 Tecnologias
 
-```text
-HTML       ████████████████████████████░░░  60.00%
-CSS        ███████████████████████░░░░░░░░  30.00%
-Python     ██████░░░░░░░░░░░░░░░░░░░░░░░░  10.00%
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=EsdrasSantos&show_icons=true&theme=radical)
+
