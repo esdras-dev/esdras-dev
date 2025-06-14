@@ -22,7 +22,8 @@ Sou apaixonado por tecnologia e estou sempre buscando aprender e evoluir. Compar
 
 ## 📊 Estatísticas
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=https://github.com/esdras-dev&show_icons=true&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=esdras-dev&show_icons=true&theme=radical)
+
 
 
 ## Tecnologias
