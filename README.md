@@ -15,6 +15,7 @@
 • 🌐 Desenvolvedor 
 
 • 💻 apaixonado por tecnologia
+
 ---
 
 ## 🛠️ Linguagens e Tecnologias
