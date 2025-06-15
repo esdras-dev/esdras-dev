@@ -14,7 +14,7 @@
 
 • 🌐 Desenvolvedor 
 
-• 💻 apaixonado por tecnologia
+• 💻 Apaixonado por tecnologia
 
 ---
 
