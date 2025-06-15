@@ -8,7 +8,7 @@
 # Meu nome é Esdras Santos
 
 
-(PYTHON | HTML | CSS) 🚀
+(PYTHON | HTML | CSS) 
 
 • 👩‍💻 Estudante de Engenharia de Software
 
