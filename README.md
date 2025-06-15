@@ -11,7 +11,9 @@
 (PYTHON | HTML | CSS) 🚀
 
 • 👩‍💻 Estudante de Engenharia de Software
+
 • 🌐 Desenvolvedor 
+
 • 💻 apaixonado por tecnologia
 ---
 
