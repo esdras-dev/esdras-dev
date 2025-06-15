@@ -8,16 +8,11 @@
 # Meu nome é Esdras Santos
 
 
+(PYTHON | HTML | CSS) 🚀
 
-
-Desenvolvedor • Estudante de Engenharia de Software
-
-Me chamo **Esdras Santos**, tenho **22 anos** e sou de **Brasília - DF**. Estou atualmente no **3º semestre de Engenharia de Software** e venho desenvolvendo **projetos pessoais** para consolidar meus conhecimentos em programação. 
-
-Sou apaixonado por tecnologia e estou sempre buscando aprender e evoluir. Compartilho parte da minha jornada aqui no Github e também no
-
-
-
+• 👩‍💻 Estudante de Engenharia de Software
+• 🌐 Desenvolvedor 
+• 💻 apaixonado por tecnologia
 ---
 
 ## 🛠️ Linguagens e Tecnologias
