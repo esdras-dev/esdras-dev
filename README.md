@@ -6,7 +6,7 @@ Me chamo **Esdras Santos**, tenho **22 anos** e sou de **Brasília - DF**. Estou
 
 Sou apaixonado por tecnologia e estou sempre buscando aprender e evoluir. Compartilho parte da minha jornada aqui no Github e também no LinkedIn:
 
-🔗 [LinkedIn - Esdras Santos](https://www.linkedin.com/in/esdrassantin/)
+🔗 [LinkedIn(https://www.linkedin.com/in/esdrassantin/)
 
 ---
 
