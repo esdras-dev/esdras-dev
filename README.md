@@ -1,12 +1,10 @@
 # Esdras Santos
 
- Desenvolvedor • Estudante de Engenharia de Software
+Desenvolvedor • Estudante de Engenharia de Software
 
 Me chamo **Esdras Santos**, tenho **22 anos** e sou de **Brasília - DF**. Estou atualmente no **3º semestre de Engenharia de Software** e venho desenvolvendo **projetos pessoais** para consolidar meus conhecimentos em programação. 
 
-Sou apaixonado por tecnologia e estou sempre buscando aprender e evoluir. Compartilho parte da minha jornada aqui no Github e também no LinkedIn:
-
-🔗 [LinkedIn (https://www.linkedin.com/in/esdrassantin/)
+Sou apaixonado por tecnologia e estou sempre buscando aprender e evoluir. Compartilho parte da minha jornada aqui no Github e também no [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/esdrassantin/)
 
 ---
 
@@ -23,8 +21,5 @@ Sou apaixonado por tecnologia e estou sempre buscando aprender e evoluir. Compar
 ## 📊 Estatísticas
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=esdras-dev&show_icons=true&theme=radical)
 
-
-
 ## Tecnologias
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=esdras-dev&layout=compact&theme=radical)
-
