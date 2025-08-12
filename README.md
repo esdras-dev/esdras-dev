@@ -7,14 +7,6 @@
 
 # Meu nome é Esdras Santos
 
-• 👩‍💻 Estudante de Engenharia de Software
-
-• 🌐 Desenvolvedor 
-
-• 💻 Apaixonado por tecnologia
-
----
-
 ## 🛠️ Linguagens e Tecnologias
 
 <p align="left">
@@ -24,9 +16,6 @@
 </p>
 
 ---
-
-## 📊 Estatísticas
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=esdras-dev&show_icons=true&theme=radical)
 
 ## Tecnologias
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=esdras-dev&layout=compact&theme=radical)
